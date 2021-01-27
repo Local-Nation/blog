@@ -1,7 +1,7 @@
 ---
 layout: post
 brand: "Hastnirmit"
-category: "Stationary" "Decor"
+category: "Stationary"
 title: "Hastnirmit"
 subtitle: "Find how Mansi Bansal’s admiration for bookmarks initiated a new chapter in her book of life!"
 date: 2020-12-08 10:55:13 +0530
